@@ -3,9 +3,7 @@
 This is my coding project for railraod recognition
 
 functions.py: stores somw important functinons for following codes
-image_edge.py	
 image_processing.py
-layered_edges.py	
 opcv_camera_edge_record.py: records and saves real time line detection
 opcv_video_edge.py: shows the real time line detection	
 opencv_edges_lines_video.py: shows result of the test videos on the screen wihtout saving
